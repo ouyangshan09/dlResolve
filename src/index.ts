@@ -3,3 +3,5 @@
  * 入口文件
  * @author Ouyang
  */
+
+console.log('hell world');
