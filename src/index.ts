@@ -3,5 +3,6 @@
  * 入口文件
  * @author Ouyang
  */
+import './core/core';
 
 console.log('hell world');
